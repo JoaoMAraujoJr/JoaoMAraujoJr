@@ -1,5 +1,5 @@
 
-<p>i'm a developer, focused on Creative development.</p>
+<p>I'm a Full Stack developer, focused on Creative development.</p>
 <h3 align="left">Supported Languages</h3>
 
 <div align="left">
