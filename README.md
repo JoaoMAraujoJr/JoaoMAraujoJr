@@ -39,7 +39,7 @@
 
 
 
-<h2 align="left">📊 GitHub Statistics
+<h2 align="left">📊 Statistics
 
 <div align="center">
 
